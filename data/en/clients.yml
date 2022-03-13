@@ -1,0 +1,21 @@
+enable    : true
+title     : Nós nos importamos com os nossos clientes e com o que entregamos.
+description: >
+  Sabemos que estatisca não é fácil , por isso é importante a gente enteder a área do cliente e a gente fazer o cliente enteder as estatiscas ,pois só assim encontraremos o melhor resultado com os dados.
+image     : images/about/about-1.png
+servicelist:
+  - name    : Relatorio muito explicado
+  - name    : Dasboards incriveis
+  - name    : Insights apatir dos dados
+  - name    : Foco no problema
+clientLogo:
+  - image   : images/client-logo/logo1.png
+  - image   : images/client-logo/logo-2.png
+  - image   : images/client-logo/logo-3.png
+  - image   : images/client-logo/logo-4.png
+  - image   : images/client-logo/logo-5.png
+  - image   : images/client-logo/logo1.png
+  - image   : images/client-logo/logo-2.png
+  - image   : images/client-logo/logo-3.png
+  - image   : images/client-logo/logo-4.png
+  - image   : images/client-logo/logo-5.png

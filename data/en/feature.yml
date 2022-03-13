@@ -1,0 +1,16 @@
+enable  : true
+item  :
+  - icon  : tf-ion-pie-graph
+    title : Análise Descritiva
+    description : >
+      É uma análise explolátoria dos dados vendo como os dados estão se comportando, neste caso é feito algumas medidas de posição e disperção , graficos e tabelas.
+
+  - icon  : tf-ion-ios-color-filter
+    title : Análise Inferêncial
+    description : >
+      Um conjuto de dados pode ter algumas distribuições de dados conhecidas sendo a mais importa a distribuição normal,essa distribuição é os que nos perminte fazer analises probabilisticas dos conjunto de dados para apartir de uma amostra inferir para a população de dados.
+
+  - icon  : tf-ion-ios-gear
+    title : Machine Learnig
+    description : >
+      É uma tecnica na qual ensinamos o computador aprender alguns padrões o mais e com isso poder fazer algumas predições , o machine learning mais simples é a regressão linear.

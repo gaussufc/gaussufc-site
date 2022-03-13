@@ -1,0 +1,8 @@
+enable : true
+item    :
+  - quote       : >
+      A Gauss presta um serviço impecavél , excelentes dasboards e relatórios incríveis!!
+    clientThumb : images/client-logo/1.png
+    clientName  : Thalis Rebouças
+    clientDesignation: Ex-Gauss , .
+

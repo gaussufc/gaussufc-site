@@ -1,0 +1,34 @@
+{{ if .Site.Params.hero.enable }}
+{{ "<!-- Hero Area -->" | safeHTML }}
+<section class="hero-area" style='background-image: url("images/background/2.png")'>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                    </a>
+                </div>
+            </div>
+            <div class="home-content__scroll">
+                                    <a href="#about" class="scroll-link smoothscroll">
+                                        <span><small>Role a Página para<br> Ver Mais </small> </span>
+                                    </a>
+                                </div>
+                                   
+                                 <div class="home-content__line"></div>
+            <div class="col-md-6">
+              <div class="block">
+                    {{ with .Site.Params.hero.heading }}
+                        <h2>{{ . }}</h2>
+                    {{ end }}
+                    {{ with .Site.Params.hero.description }}
+                        <p id = "nomebranco">{{ . }}</p>
+                    {{ end }}
+                </div>
+                
+</div>
+            </div>
+        </div>
+        
+    </div>
+   
+</section>
+{{ end }}

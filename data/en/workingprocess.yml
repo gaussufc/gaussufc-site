@@ -1,0 +1,28 @@
+enable  : true
+topTitle: Como nós trabalhamos
+title   : Nós dividimos nosso trabalho em 4 partes !
+subtitle: Saiba um pouco de como nós trabalhamos.
+item    :
+  - number  : 1
+    icon    : tf-ion-ios-pulse
+    title   : Análise do Problema 
+    description : >
+      Nessa parte é feita uma consultoria para entender o problema e assim fazer um orçamento dos calculos que serão feitos.
+
+  - number  : 2
+    icon    : tf-ion-android-people
+    title   : Escolha da equipe do trabalho 
+    description : >
+      Depois que enviamos o orçamento e é aceito começamos no mesmo momento a escolher os membros mais capacitados para as análises.
+
+  - number  : 3
+    icon    : tf-ion-wand
+    title   : A equipe faz analises 
+    description : >
+      A equipe irá fazer as analises e irá entregar um relatório ou um dashboard dos resultados obtidos muito bem comentando e explicado.
+
+  - number  : 4
+    icon    : tf-documents5
+    title   : Entrega dos Resultados
+    description : >
+      Trabalhamos no prazo de 15 dias ou 30 dias e ao final desse tempo será entregue os resultados muito bem explicados e comentados.

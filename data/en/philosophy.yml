@@ -1,0 +1,25 @@
+enable    : true
+topTitle   : Conheça um pouco mais sobre a gente!
+title     : Sobre Nós.
+subtitle  : Conheça um pouco do nosso estatudo e identidade da Gauss!
+tabItem   :
+  - id        : philosophy
+    title     : Valores
+    heading   : Transformando dados em insights
+    content   : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+    image     : images/company/3.png
+
+  - id        : mission
+    title     : Missão
+    heading   : Nossa Missão
+    content   : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+    image     : images/company/2.png
+
+  - id        : vision
+    title     : Visão
+    heading   : Nossa Visão
+    content   : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+    image     : images/company/1.png
