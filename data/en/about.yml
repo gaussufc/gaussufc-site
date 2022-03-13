@@ -2,12 +2,10 @@ enable  : true
 item    :
   - positionRight : false
     image : images/about/about-1.png
-    title : A gauss é formadas por alunos apaixonadas por Estatística <3 !
-    description : >
-      Estatística é um conjunto de métodos usados para se analisar dados. A Estatística pode ser aplicada em praticamente todas as áreas do conhecimento humano e em algumas áreas recebe um nome especial. Este é o caso da Bioestatística, que trata de aplicações da Estatística em Ciências Biológicas e da Saúde.
-
+    title : A Gauss é formadas por alunos apaixonadas por estatística
+    description:
+    
   - positionRight : true
     image : images/about/about-2.png
-    title : Pensamos como analisar e entregar os resultados.
-    description : >
-      O mais importate da aplicação Estatística é saber mostrar e explicar os resultados para o cliente ,os números são importantes ,mas o significado deles que resolvem o problema.
+    title : Entregamos resultados de maneira ágil
+    description:

@@ -1,21 +1,12 @@
 enable    : true
-title     : Nós nos importamos com os nossos clientes e com o que entregamos.
+title     : Priorizamos o resultado satisfatório do trabalho feito para os nossos clientes.
 description: >
-  Sabemos que estatisca não é fácil , por isso é importante a gente enteder a área do cliente e a gente fazer o cliente enteder as estatiscas ,pois só assim encontraremos o melhor resultado com os dados.
+  Sabemos que a estatística é uma área densa e, ao mesmo tempo, fundamental para os negócios do mercado atual. Entendendo isso, a Gauss busca aproximar as potencialidades da estatística para as necessidades do cliente. Essa troca de conhecimento é a garantia de um resultado positivo para as duas partes.
 image     : images/about/about-1.png
 servicelist:
-  - name    : Relatorio muito explicado
-  - name    : Dasboards incriveis
-  - name    : Insights apatir dos dados
+  - name    : Relatorio detalhado
+  - name    : Dasboards incríveis
+  - name    : Insights a partir dos dados
   - name    : Foco no problema
+  
 clientLogo:
-  - image   : images/client-logo/logo1.png
-  - image   : images/client-logo/logo-2.png
-  - image   : images/client-logo/logo-3.png
-  - image   : images/client-logo/logo-4.png
-  - image   : images/client-logo/logo-5.png
-  - image   : images/client-logo/logo1.png
-  - image   : images/client-logo/logo-2.png
-  - image   : images/client-logo/logo-3.png
-  - image   : images/client-logo/logo-4.png
-  - image   : images/client-logo/logo-5.png

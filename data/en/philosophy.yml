@@ -1,7 +1,7 @@
 enable    : true
 topTitle   : Conheça um pouco mais sobre a gente!
 title     : Sobre Nós.
-subtitle  : Conheça um pouco do nosso estatudo e identidade da Gauss!
+subtitle  : Nossos pilares
 tabItem   :
   - id        : philosophy
     title     : Valores

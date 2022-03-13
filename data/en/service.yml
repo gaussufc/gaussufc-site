@@ -1,28 +1,25 @@
 enable    : true
 topTitle  : Uma pequena listas das análises que fazemos atualmente. 
 title     : Nossos Serviços.
-subtitle  : Fazemos deste análises até análises mais complexas, mas a melhor análise é aquela que resolve melhor o seu problema!
+subtitle  : Fazemos análises simples e complexas para atender suas necessidades
 item      :
   - icon  : tf-ion-pie-graph
     title : Análise Descritiva
     list  :
-      - name : Graficos e Tabelas das variáveis 
-      - name : Análise de itens de likert
-      - name : Correlações simples
-      - name : Dashboards dos dados
+      - name : Graficos
+      - name : Tabelas
+      - name : Medidas resumo
 
   - icon  : tf-ion-ios-color-filter
-    title : Análises Inferências
+    title : Análises Inferencial
     list  :
-      - name : Amostragem
-      - name : Teste de Hipoteses
-      - name : Estimação intervalar
-      - name : Análises não-parametricas
+      - name : Cálculo amostral
+      - name : Teste de hipóteses
+      - name : Planejamento de experimentos
 
   - icon  : tf-ion-ios-gear
-    title : Machine Learning
+    title : Análise multivariada
     list  :
-      - name : Regressão Linear 
-      - name : Regressão Logistica
-      - name : Modelos de series temporais
-      - name : Redes Neurais
+      - name : Análise de regressão 
+      - name : Redução de dimensionalidade
+      - name : Análise de agrupamentos

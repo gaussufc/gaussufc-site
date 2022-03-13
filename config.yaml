@@ -26,11 +26,11 @@ Languages:
     logo: images/logo.svg
     menufixed: yes
     params:
-      aboutSm:
-        description: A Gauss foi fundada no ano de 1999, para ser mais específico completamos aniversário no dia 11 de fevereiro, somos uma empressa júnior foi criada e formada por alunos do curso de Estatística da UFC.<br> A Gauss vem ao longo desse período aperfeiçoando-se e ampliando sua área de atuação para melhor atender aos clientes e associados.Com o objetivo de integrar profissionais do mercado de trabalho bem como estimular o espírito empreendedor e dinâmico da profissão de estatístico, proporcionando uma melhor habilitação do graduando, a Gauss realiza serviços de Consultoria e Assessoria na área de estatística, elaborando e executando diversas analises e apresentando forma de relatório ou dashboards.
-        
-        enable: yes
-        title: Um pouquinho da nossa linda história.
+      #aboutSm:
+      #  description: A Gauss foi fundada no ano de 1999, para ser mais específico completamos aniversário no dia 11 de fevereiro, somos uma empressa júnior foi criada e formada por alunos do curso de Estatística da UFC.<br> A Gauss vem ao longo desse período aperfeiçoando-se e ampliando sua área de atuação para melhor atender aos clientes e associados.Com o objetivo de integrar profissionais do mercado de trabalho bem como estimular o espírito empreendedor e dinâmico da profissão de estatístico, proporcionando uma melhor habilitação do graduando, a Gauss realiza serviços de Consultoria e Assessoria na área de estatística, elaborando e executando diversas analises e apresentando forma de relatório ou dashboards.
+      #  
+      #  enable: yes
+      #  title: Um pouquinho da nossa linda história.
       contact:
         address:  Bloco 910 Campus do Pici, Dema ,UFC  <br> Pici , Fortaleza-CE
         enable: yes
@@ -44,7 +44,7 @@ Languages:
         mapLongitude: '-38.57411386931414'
         mapMarker: images/marker.png
         phone: (85) 98524-2430 
-        subtitle: Mande seu email com sua dúvida adoraremos responde-la.
+        subtitle: Mande seu email com sua dúvida, adoraremos responde-la.
         title: Entre em Contato.
         topTitle: Marque sua consutoria conosco!
          
@@ -52,15 +52,15 @@ Languages:
         bg: images/call-to-action/call-to-action-bg-2.jpg
         btnText: Entre em Contato
         enable: yes
-        subtitle: Fazemos consultorias presencias e onlines,podemos fazer você enteder melhor os seus dados.
-        title: Vamos conversa mais sobre análise estatística ? mande um email para nós.
+        subtitle: Fazemos reuniões presencias e onlines.
+        title: Marque sua reunião de diagnóstico.
       hero:
         btnText: Saiba Mais
         btnURL: 
         button: no
         description: Somos uma empresa júnior especializada em análise estatística em diferentes áreas.
         enable: yes
-        heading: Transformandos dados em Insight
+        heading: Transformandos dados em Insight.
         videoThumb: 
         videoURL: 
       title: Gauss Ej

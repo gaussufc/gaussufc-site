@@ -1,28 +1,28 @@
 enable  : true
 topTitle: Como nós trabalhamos
-title   : Nós dividimos nosso trabalho em 4 partes !
-subtitle: Saiba um pouco de como nós trabalhamos.
+title   : Dividimos nosso trabalho em 4 partes.
+subtitle: 
 item    :
   - number  : 1
     icon    : tf-ion-ios-pulse
-    title   : Análise do Problema 
+    title   : Reunião de diagnóstico 
     description : >
-      Nessa parte é feita uma consultoria para entender o problema e assim fazer um orçamento dos calculos que serão feitos.
+      Neste primeiro momento será realizado um encontro para entender o contexto do problema de pesquisa, as restrições e suas necessidades. 
 
   - number  : 2
     icon    : tf-ion-android-people
-    title   : Escolha da equipe do trabalho 
+    title   : Elaboração da proposta
     description : >
-      Depois que enviamos o orçamento e é aceito começamos no mesmo momento a escolher os membros mais capacitados para as análises.
+      Em até três dias úteis é redigida uma proposta contendo o orçamento, a descrição metodológica e prazos de entrega do serviço.
 
   - number  : 3
     icon    : tf-ion-wand
-    title   : A equipe faz analises 
+    title   : Negociação do contrato 
     description : >
-      A equipe irá fazer as analises e irá entregar um relatório ou um dashboard dos resultados obtidos muito bem comentando e explicado.
+      Esta etapa é dedicada para o alinhamento da proposta e das necessidades de pesquisa, podendo incidir mudanças no escopo, valor ou tempo de entrega, até, efetivamente, a assinatura do contrato.
 
   - number  : 4
     icon    : tf-documents5
-    title   : Entrega dos Resultados
+    title   : Execução do projeto
     description : >
-      Trabalhamos no prazo de 15 dias ou 30 dias e ao final desse tempo será entregue os resultados muito bem explicados e comentados.
+      A equipe técnica alocada inicia as atividades do projeto de pesquisa. Sua apresentação, geralmente, é feita por meio de um relatório técnico ou solução analítica autocontida, dashboards, por exemplo.
