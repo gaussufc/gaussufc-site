@@ -5,25 +5,25 @@ subtitle: Conheça um pouco dessa equipe sensacional!
 
 member  :
   - image         : images/team/1.png
-    name          : Victor Navarro
+    name          : Luan Augusto
     designation   : Presidente
     instagramURL  : https://www.instagram.com/victormnavarrof/
     linkedinURL   : https://www.linkedin.com/in/victormnavarrof/
 
   - image         : images/team/2.png
-    name          : Yasmin Kalyane
+    name          : Jéssica Tifanny
     designation   : Diretora de Marketing
     instagramURL  : https://www.instagram.com/kalyaneyasmin_/
     linkedinURL   : https://www.linkedin.com/in/yasmin-kalyane-47b1951b5/
 
   - image         : images/team/3.png
-    name          : Ribamar Júnior
+    name          : Romário Adrian
     designation   : Diretor de Projetos
     instagramURL  : https://www.instagram.com/oribamarjunior/
     linkedinURL   : https://www.linkedin.com/in/ribamar-cavalcante-j%C3%BAnior-38620041/
 
   - image         : images/team/4.png
-    name          : Alison Lima
+    name          : Leticia Alcantara
     designation   : Diretor Financeiro
     instagramURL  : https://www.instagram.com/alisondsl/
     linkedinURL   : https://www.linkedin.com/in/alisondsl/
