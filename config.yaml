@@ -1,65 +1,61 @@
+---
 baseURL: gaussej.com.br
 languageCode: en-us
 title: Gauss Ej | Empresa Júnior de Estatística
 summaryLength: 10
-enableRobotsTXT: yes
+enableRobotsTXT: true
 googleAnalytics: ''
-enableGitInfo: yes
-pygmentsCodeFences: no
-defaultContentLanguageInSubdir: yes
+enableGitInfo: true
+pygmentsCodeFences: false
+defaultContentLanguageInSubdir: true
 DefaultContentLanguage: en
 params:
   cookies:
-    enable: yes
+    enable: true
     expire_days: 2
   logo: images/logo.svg
 Params:
   listeLangues:
-    - author: Gauss
-      code: en
-      description: Transformando dados em Insights
+  - author: Gauss
+    code: en
+    description: Transformando dados em Insights
 Languages:
   en:
-    dateFormat:  2/10/2006
+    dateFormat: 2/10/2006
     home: Home
     languageCode: en-us
     logo: images/logo.svg
-    menufixed: yes
+    menufixed: true
     params:
-      #aboutSm:
-      #  description: A Gauss foi fundada no ano de 1999, para ser mais específico completamos aniversário no dia 11 de fevereiro, somos uma empressa júnior foi criada e formada por alunos do curso de Estatística da UFC.<br> A Gauss vem ao longo desse período aperfeiçoando-se e ampliando sua área de atuação para melhor atender aos clientes e associados.Com o objetivo de integrar profissionais do mercado de trabalho bem como estimular o espírito empreendedor e dinâmico da profissão de estatístico, proporcionando uma melhor habilitação do graduando, a Gauss realiza serviços de Consultoria e Assessoria na área de estatística, elaborando e executando diversas analises e apresentando forma de relatório ou dashboards.
-      #  
-      #  enable: yes
-      #  title: Um pouquinho da nossa linda história.
       contact:
-        address:  Bloco 910 Campus do Pici, Dema ,UFC  <br> Pici , Fortaleza-CE
-        enable: yes
-        dribbble:
+        address: Bloco 910 Campus do Pici, Dema ,UFC  <br> Pici , Fortaleza-CE
+        enable: true
+        dribbble: 
         facebook: https://www.facebook.com/GaussUFC
         fax: 
         instagram: https://www.instagram.com/gauss.ufc/
         linkedin: https://www.linkedin.com/company/gauss-ufc/
-        twitter:
-        mapLatitude: '-3.7449987672084397'
-        mapLongitude: '-38.57411386931414'
+        twitter: 
+        mapLatitude: "-3.7449987672084397"
+        mapLongitude: "-38.57411386931414"
         mapMarker: images/marker.png
-        phone: (85) 98176-7985 
+        phone: "(85) 98176-7985"
         subtitle: Mande seu email com sua dúvida, adoraremos responde-la.
         title: Entre em Contato.
         topTitle: Marque sua consutoria conosco!
-         
       cta:
         bg: images/call-to-action/call-to-action-bg-2.jpg
         btnText: Entre em Contato
-        enable: yes
+        enable: true
         subtitle: Fazemos reuniões presencias e onlines.
         title: Marque sua reunião de diagnóstico.
       hero:
         btnText: Saiba Mais
         btnURL: 
-        button: no
-        description: Somos uma empresa júnior especializada em análise estatística em diferentes áreas.
-        enable: yes
+        button: false
+        description: Somos uma empresa júnior especializada em análise estatística
+          em diferentes áreas.
+        enable: true
         heading: Transformandos dados em Insight.
         videoThumb: 
         videoURL: 
@@ -67,13 +63,12 @@ Languages:
     weight: 2
 menu:
   nav:
-    - name: about
-      url: about
-      weight: 2
-    - name: service
-      url: service
-      weight: 3
-    - name: contact
-      url: contact
-      weight: 4
-
+  - url: contact
+    name: contact
+    weight: 3
+  - url: service
+    name: service
+    weight: 2
+  - url: about
+    name: about
+    weight: 1
