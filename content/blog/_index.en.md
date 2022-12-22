@@ -2,9 +2,5 @@
 date: 2018-07-07T18:23:33+06:00
 description: This is meta description
 title: ENGLISH Blog
-menu:
-  nav:
-    name: blog
-    weight: 4
 
 ---
